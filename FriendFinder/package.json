@@ -1,0 +1,24 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Homework #13",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaylagil/friendfinder.git"
+  },
+  "author": "Kayla G",
+  "license": "idk ",
+  "bugs": {
+    "url": "https://github.com/Kaylagil/friendfinder.git/issues"
+  },
+  "homepage": "https://github.com/Kaylagil/friendfinder.git#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
